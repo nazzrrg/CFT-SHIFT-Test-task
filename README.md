@@ -1,0 +1,1 @@
+CFT SHIFT Test task
