@@ -4,7 +4,7 @@ maven 3.6.3, java 1.8, подразумевает установленную JRE
 
 Установка:
 ```
-mvn clean install
+mvn install
 ```
 Запуск при помощи скрипта стартера в target/appassembler/bin
 ```
